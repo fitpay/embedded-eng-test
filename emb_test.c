@@ -1,0 +1,17 @@
+#include "emb_test.h"
+
+const uint8_t input_data[12] =
+{
+    0xF0, 0x24, 0xF8, 0xC0, 0x4B, 0x1B,
+    0x68, 0x4F, 0xF0, 0xFF, 0x31, 0x18,
+};
+
+int main(void)
+{
+	
+}
+
+void read_channels(void* data_in, void* data_out)
+{
+
+}
